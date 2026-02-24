@@ -1,3 +1,3 @@
 def greet(name):
- return f"Hello, {name}!"
-яблоко
+ retur f"Hello, {name}!"
+ 
